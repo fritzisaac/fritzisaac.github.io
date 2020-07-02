@@ -16,7 +16,7 @@ Hello all.  My name's Fritz, and I'm a senior CSE major from Pittsburgh, PA.  I'
 1. Numbered
 2. List
 
-[Link](https://www.linkedin.com/in/fritz-isaac-b30479108/) and ![Image](IMG_6410.JPG)
+[LinkedIn](https://www.linkedin.com/in/fritz-isaac-b30479108/) and ![Image](IMG_6410.JPG)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
