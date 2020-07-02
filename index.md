@@ -18,7 +18,7 @@ Hello all.  My name's Fritz, and I'm a senior CSE major from Pittsburgh, PA.  I'
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://www.linkedin.com/in/fritz-isaac-b30479108/) and ![Image](IMG_6410.JPG)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
