@@ -1,6 +1,6 @@
 ## FRITZ'S PORTFOLIO PAGE
 
-<img src="github.com/fritzisaac/IMG_6410.JPG" width = 300>
+<img src="https://fritzisaac.github.io/IMG_6410.JPG" >
 
 ### Introduction 
 
