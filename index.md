@@ -1,7 +1,5 @@
 ## FRITZ'S PORTFOLIO PAGE
 
-` <img src="https://fritzisaac.github.io/IMG_6410.JPG" > `
-
 ![Rooster](https://fritzisaac.github.io/IMG_6410.JPG)
 ### Introduction 
 
