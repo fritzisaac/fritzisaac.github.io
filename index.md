@@ -31,3 +31,6 @@ Retail marijuana sales can be seen trending upwards in Denver, CO from 2014 to 2
 
 In the modern era of information overload, there are constantly stories emerging that border on conspiracy theories.  One such conspiracy theory is that of the #Plandemic: the idea that someone started the Covid-19 epidemic with intent. This is a visualization of tweets that mention this conspiracy theory.
 
+### 7/28 Interactive Data Visualization
+
+![MTB](https://fritzisaac.github.io/Dashboard_1.png)
