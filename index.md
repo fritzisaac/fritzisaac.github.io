@@ -33,4 +33,4 @@ In the modern era of information overload, there are constantly stories emerging
 
 ### 7/28 Interactive Data Visualization
 
-![MTB](https://fritzisaac.github.io/Dashboard_1.png)
+![MTB](Dashboard_1.png)
