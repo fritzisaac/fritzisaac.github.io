@@ -13,3 +13,21 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/fritz-isaac-b30479108/
 
 ### 7/7 - Creating Charts
 ![KUSH](https://fritzisaac.github.io/denver.png)
+Retail marijuana sales can be seen trending upwards in Denver, CO from 2014 to 2017.
+
+### 7/9 - Data Scraping
+<a href="https://fritzisaac.github.io/ACLU_ParseHub_Data.xlsx">ACLU ParseHub Data </a>
+
+### 7/16 - Virtual Tour
+<a href="https://poly.google.com/view/6V5fmqEqdqQ/embed?chrome=min"> Pandemic Mountain Biking Trail Tour </a>
+
+ A mountain bike trail located in McCandless Township, Pennsylvania. The trail was constructed entirely by hand during the Covid-19 outbreak (March-July 2020).
+ ### 7/21 - Collecting Social Media Data
+ <a href="https://fritzisaac.github.io/tweets_table_20200810-015253"> #Plandemic Twitter Data </a>
+ 
+ ### 7/23 - Visualizing Social Media Data
+
+<a href = "https://arcg.is/0WP5nr"> ArcGIS #Plandemic Tweet Visualization </a> 
+
+In the modern era of information overload, there are constantly stories emerging that border on conspiracy theories.  One such conspiracy theory is that of the #Plandemic: the idea that someone started the Covid-19 epidemic with intent. This is a visualization of tweets that mention this conspiracy theory.
+
