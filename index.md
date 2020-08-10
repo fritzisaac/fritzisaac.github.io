@@ -8,6 +8,7 @@ Hello all.  My name's Fritz, and I'm a senior CSE major from Pittsburgh, PA.  I'
 Connect with me on [LinkedIn](https://www.linkedin.com/in/fritz-isaac-b30479108/s=50).
 ### 7/2 - Data Management & Cleaning
 <a href="https://fritzisaac.github.io/fritz_isaac_teacher_salary.xlsx">Teacher Salary Data </a>
+
 <a href="https://fritzisaac.github.io/fritz_isaac_twitter_data.xlsx">Tom Wolf Twitter Data </a>
 
 ### 7/7 - Creating Charts
